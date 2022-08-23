@@ -6,5 +6,5 @@ Project provides an overivew of an Executive MBA
 
 Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel,  https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/ManagingGlobalEnterprise, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/InvestmentBanking_CFA , https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/GraduateDegrees.
 
-### Webinar financing an executive MBA
+### Webinar on financing an executive ivy league MBA 
 https://www.wsj.com/articles/SB122885412122692305
