@@ -6,6 +6,7 @@ Project provides an overivew of an Executive MBA
 
 ![image](GMATImage5.jpg)
 
+##Tier II Business School
 ![image](admissionletter.jpg)
 
 Additional details please reference https://github.com/alpaddesai/RealEstatePortfolioIdea_Travel,   https://github.com/alpaddesai/ManagingGlobalEnterprise, https://github.com/alpaddesai/BusinessNegotiations, https://github.com/alpaddesai/InvestmentBanking_CFA , https://github.com/alpaddesai/ManagementConsulting,  https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea, https://github.com/alpaddesai/EngineeringProjectManagement and https://github.com/alpaddesai/GraduateDegrees.
