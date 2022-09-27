@@ -1,6 +1,6 @@
 # Executive MBA
 
-Project provides an overivew of an Executive MBA
+Project provides an overview of an Executive MBA
 
 ![image](ExecutiveMBA.jpg)
 
