@@ -1,4 +1,4 @@
-# Executive MBA
+# Executive MBA Application
 
 Project provides an overview of an application for Executive MBA
 
