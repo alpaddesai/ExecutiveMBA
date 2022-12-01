@@ -4,6 +4,8 @@ Project provides an overview of an application for Executive MBA
 
 ![image](ExecutiveMBA.jpg)
 
+![image](StanfordBusinessSchool.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
