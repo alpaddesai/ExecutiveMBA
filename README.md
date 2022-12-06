@@ -10,4 +10,6 @@ Project provides an overview of an application for Executive MBA
 
 ![image](Ethics.jpg)
 
+### Popular vote: https://github.com/alpaddesai
+
 Additional details please reference https://github.com/alpaddesai/GraduateRecordExamTestScores and https://github.com/alpaddesai/RealEstatePortfolioIdea2022
