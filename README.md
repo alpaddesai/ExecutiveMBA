@@ -15,6 +15,4 @@ Project provides an overview of an application for Executive MBA
 
 ### Additional details please reference 
 #### Test Scores: 
-https://github.com/alpaddesai/GraduateRecordExamTestScores 
-#### Personal life: Family and Friends:
-https://github.com/alpaddesai/RealEstatePortfolioIdea
+https://github.com/alpaddesai/GraduateRecordExamTestScores and https://github.com/alpaddesai/RealEstatePortfolioIdea
