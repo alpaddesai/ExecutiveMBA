@@ -13,7 +13,7 @@ Project provides an overview of an application for Executive MBA
 #### Popular vote: https://github.com/alpaddesai
 ###"What is a popular vote: Where time is spent in addition to official transcripts"
 
-#### Additional details please reference 
+### Additional details please reference 
 #### Test Scores: 
 https://github.com/alpaddesai/GraduateRecordExamTestScores 
 #### Personal life: Family and Friends:
