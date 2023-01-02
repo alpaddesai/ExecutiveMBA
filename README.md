@@ -10,7 +10,7 @@ Project provides an overview of an application for Executive MBA
 
 ![image](Ethics.jpg)
 
-#### Popular vote project: https://github.com/alpaddesai/GraduateRecordExamTestScores and https://github.com/alpaddesai/GraduateManagementAptitudeTest
+#### Popular Vote Project: https://github.com/alpaddesai/GraduateRecordExamTestScores and https://github.com/alpaddesai/GraduateManagementAptitudeTest
 
 ### Additional details please reference 
 https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
