@@ -1,4 +1,4 @@
-# Executive MBA Application 2031
+# Executive MBA Application 
 
 Project provides an overview of an application for Executive MBA
 
