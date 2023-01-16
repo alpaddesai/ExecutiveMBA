@@ -4,8 +4,6 @@ Project provides an overview of an application for Executive MBA
 
 ![image](ExecutiveMBA.jpg)
 
-![image](MSx.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
