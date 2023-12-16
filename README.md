@@ -10,6 +10,4 @@ Project provides an overview of an Executive MBA
 
 ![image](Ethics.jpg)
 
-### Popular Vote Project: https://github.com/alpaddesai/GraduateDegrees 
 
-### Additional details reference: https://github.com/alpaddesai/RankCertificatesUndergraduateDegree
