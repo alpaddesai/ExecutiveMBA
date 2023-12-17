@@ -9,5 +9,3 @@ Project provides an overview of an Executive MBA
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
-
-
